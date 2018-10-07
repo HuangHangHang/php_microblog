@@ -1,0 +1,13 @@
+Time : 17:41:56
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : insert into tb_user (username,password,addtime) VALUE (:username,:password,:1538581316)
+
+Time : 17:38:24
+SQLSTATE[HY093]: Invalid parameter number
+Raw SQL : insert into tb_user (username,password,addtime) VALUE (:username,:password,:1538581104)
+
+Time : 17:05:40
+SQLSTATE[HY000] [1049] Unknown database 'microblo'
+
+Time : 17:05:39
+SQLSTATE[HY000] [1049] Unknown database 'microblo'
